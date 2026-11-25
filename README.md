@@ -25,38 +25,6 @@ A simple menu-driven Student Management System developed using Python. This proj
 - CSV Operations
 - User Input and Output
 
-## How to Run
-
-1. Clone or download this repository.
-2. Open the project folder in PyCharm or any Python IDE.
-3. Make sure Python 3 is installed.
-4. Run the following command:
-
-```bash
-python student_management.py
-```
-
-## Screenshots
-
-### Main Menu
-
-
-
-### Add Student
-
-
-
-### View All Students
-
-
-
-### Search Student
-
-
-
-### Calculate Average Marks
-
-
 
 ## Author
 
