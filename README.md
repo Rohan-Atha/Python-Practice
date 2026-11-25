@@ -1,105 +1,65 @@
-Python Programming Assignment
+# Student Management System
 
-About the Project
+A simple menu-driven Student Management System developed using Python. This project helps users manage student records by adding students, viewing records, searching by roll number, and calculating average marks.
 
-This repository contains my Python programming assignment. It includes completed Python practice tasks and a Student Management System developed using Python.
+## Features
 
-The Student Management System is a menu-driven program that allows users to manage student records through a simple interface.
+- **Add Student:** Add new student details.
+- **View All Students:** Display all stored student records.
+- **Search Student:** Find a student using their roll number.
+- **Calculate Average Marks:** Calculate the average marks of students.
+- **Exit:** Close the application.
 
-Repository Structure
+## Technologies Used
 
-Python-Programming/
-│
-├── Python-Tasks/
-│   ├── Task1.py
-│   ├── Task2.py
-│   └── Task3.py.....
-│
-├── Student-Management-System/
-│
-├── Screenshots/
-│   ├── Add-1.png
-│   ├── Search-Roll.png
-│   └── Average-Marks.png
-│
-├── README.md
+- Python 3
+- CSV Module
+- PyCharm IDE
 
-Student Management System
+## Concepts Used
 
-Features
+- Functions
+- Conditional Statements
+- Loops
+- File Handling
+- CSV Operations
+- User Input and Output
 
-Add Student: Enter and save a student's name, roll number, and marks.
+## How to Run
 
-View Students: Display all saved student records.
+1. Clone or download this repository.
+2. Open the project folder in PyCharm or any Python IDE.
+3. Make sure Python 3 is installed.
+4. Run the following command:
 
-Search Student: Find a student using their roll number.
+```bash
+python student_management.py
+```
 
-Calculate Average: Calculate the average marks of the recorded students.
+## Screenshots
 
-Exit: Exit the program.
-
-Student records are stored in a Excel file (students.xls), so the data can be accessed again when the program is run.
-
-Python Concepts Used
-
-Variables and Data Types: Store student names, roll numbers, and marks.
-
-Conditional Statements: Perform actions based on the menu choice.
-
-Loops: Repeat the menu until the user chooses to exit.
-
-Functions: Divide the program into smaller, reusable parts.
-
-Lists: Work with collections of data where required.
-
-File Handling: Read and write student records.
-
-CSV Module: Store student information in CSV format.
-
-Exception Handling: Handle errors such as missing files and invalid input.
-
-How to Run the Project
-
-Download or clone this repository.
-
-Open the Student-Management-System folder.
-
-Make sure Python is installed on your computer.
-
-Open the terminal in that folder.
-
-Run the following command:
-
-python main.py
-
-Follow the menu displayed in the terminal.
-
-Screenshots
-
-1. Add Student
+### Main Menu
 
 
 
-2. View Students
+### Add Student
 
 
 
-3. Search Student
+### View All Students
 
 
 
-Technologies Used
+### Search Student
 
-Python
 
-CSV
 
-Git
+### Calculate Average Marks
 
-GitHub
 
-Author
 
-Rohan Atha
+## Author
 
-Python Programming Assignment
+**Rohan Atha**
+
+The LNM Institute of Information Technology (LNMIIT)
